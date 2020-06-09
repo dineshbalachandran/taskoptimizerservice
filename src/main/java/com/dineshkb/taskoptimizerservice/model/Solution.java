@@ -1,4 +1,4 @@
-package com.infosys.taskoptimizerservice.model;
+package com.dineshkb.taskoptimizerservice.model;
 
 public class Solution {
     public int id;

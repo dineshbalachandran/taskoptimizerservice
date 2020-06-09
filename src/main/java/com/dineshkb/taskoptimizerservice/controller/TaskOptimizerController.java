@@ -1,8 +1,8 @@
-package com.infosys.taskoptimizerservice.controller;
+package com.dineshkb.taskoptimizerservice.controller;
 
-import com.infosys.taskoptimizerservice.model.Request;
-import com.infosys.taskoptimizerservice.model.Solution;
-import com.infosys.taskoptimizerservice.service.TaskOptimizerService;
+import com.dineshkb.taskoptimizerservice.model.Request;
+import com.dineshkb.taskoptimizerservice.service.TaskOptimizerService;
+import com.dineshkb.taskoptimizerservice.model.Solution;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,8 +1,7 @@
-package com.infosys.taskoptimizerservice.service;
+package com.dineshkb.taskoptimizerservice.service;
 
-import com.infosys.taskoptimizer.taskassignschedule.TaskAssignScheduleApp;
-import com.infosys.taskoptimizerservice.model.Request;
-import com.infosys.taskoptimizerservice.model.Solution;
+import com.dineshkb.taskoptimizerservice.model.Request;
+import com.dineshkb.taskoptimizerservice.model.Solution;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
